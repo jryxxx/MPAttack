@@ -1,12 +1,3 @@
-#!/usr/bin/python3
-# _*_ coding: utf-8 _*_
-
-# @Date        : 2025/04/15 15:06
-# @Author      : Ruiyang Jia
-# @File        : data_loader.py
-# @Software    : Visual Studio Code
-# @Description :
-
 import neural_renderer
 import utils.nr_utils as nmr
 import torch
