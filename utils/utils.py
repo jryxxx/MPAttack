@@ -1,12 +1,3 @@
-#!/usr/bin/python3
-# _*_ coding: utf-8 _*_
-
-# @Date        : 2025/04/15 15:06
-# @Author      : Ruiyang Jia
-# @File        : utils.py
-# @Software    : Visual Studio Code
-# @Description :
-
 import torch
 import warnings
 import cv2
