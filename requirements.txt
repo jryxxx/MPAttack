@@ -1,0 +1,207 @@
+absl-py==1.0.0
+addict==2.4.0
+aliyun-python-sdk-core==2.16.0
+aliyun-python-sdk-kms==2.16.5
+annotated-types==0.7.0
+anyio==4.5.2
+argon2-cffi==21.1.0
+attrs==21.2.0
+Babel==2.9.1
+backcall==0.2.0
+beautifulsoup4==4.13.3
+bleach==4.1.0
+brotlipy==0.7.0
+cachetools==4.2.4
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1707022139797/work/certifi
+cffi @ file:///home/conda/feedstock_root/build_artifacts/cffi_1696001773319/work
+chainer==7.8.1
+chardet @ file:///tmp/build/80754af9/chardet_1607706746162/work
+charset-normalizer==3.4.1
+click==8.1.8
+colorama==0.4.6
+conda==22.11.1
+conda-package-handling @ file:///tmp/build/80754af9/conda-package-handling_1618262148928/work
+contourpy==1.1.1
+crcmod==1.7
+cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography-split_1717559415432/work
+cupy-cuda11x==12.3.0
+cycler==0.11.0
+Cython==3.0.12
+debugpy==1.5.1
+decorator==5.1.0
+defusedxml==0.7.1
+distro==1.9.0
+entrypoints==0.3
+eval-type-backport==0.2.2
+exceptiongroup==1.2.2
+fairscale==0.4.13
+fastrlock==0.8.3
+filelock==3.14.0
+fonttools==4.28.2
+fsspec==2025.3.1
+fvcore==0.1.5.post20221221
+gdown==5.2.0
+gensim==4.3.3
+gitdb==4.0.12
+GitPython==3.1.44
+google-auth==2.3.3
+google-auth-oauthlib==0.4.6
+grpcio==1.42.0
+h11==0.14.0
+httpcore==1.0.7
+httpx==0.28.1
+huggingface-hub==0.29.3
+idna @ file:///home/linux1/recipes/ci/idna_1610986105248/work
+imageio==2.35.1
+importlib-metadata==4.8.2
+importlib-resources==5.4.0
+iopath==0.1.10
+ipykernel==6.5.1
+ipython==7.29.0
+ipython-genutils==0.2.0
+ipywidgets==7.6.5
+jedi==0.18.1
+Jinja2==3.0.3
+jiter==0.9.0
+jmespath==0.10.0
+joblib==1.4.2
+json5==0.9.6
+jsonlines==4.0.0
+jsonschema==4.2.1
+jupyter-client==7.1.0
+jupyter-core==4.9.1
+jupyter-server==1.12.0
+jupyterlab==3.2.4
+jupyterlab-language-pack-zh-CN==3.2.post2
+jupyterlab-pygments==0.1.2
+jupyterlab-server==2.8.2
+jupyterlab-widgets==1.0.2
+kiwisolver==1.3.2
+lazy-loader==0.4
+lvis @ git+https://github.com/lvis-dataset/lvis-api.git@7d7f07def11da91f8b2710ce352c62a78fd5a7ad
+Markdown==3.3.6
+markdown-it-py==3.0.0
+MarkupSafe==2.0.1
+matplotlib==3.7.5
+matplotlib-inline==0.1.3
+mdurl==0.1.2
+mistune==0.8.4
+mmcv==2.1.0
+# Editable install with no version control (mmdet==3.3.0)
+-e /root/ovd-attack/mmdetection
+mmengine==0.10.7
+mmyolo==0.6.0
+model-index==0.1.11
+nbclassic==0.3.4
+nbclient==0.5.9
+nbconvert==6.3.0
+nbformat==5.1.3
+nest-asyncio==1.5.1
+networkx==3.1
+neural-renderer-pytorch==1.1.3
+nltk==3.9.1
+notebook==6.4.6
+numpy==1.24.4
+oauthlib==3.1.1
+openai==1.72.0
+opencv-contrib-python==4.11.0.86
+opencv-python==4.11.0.86
+opendatalab==0.0.10
+openmim==0.3.9
+openxlab==0.1.2
+ordered-set==4.1.0
+oss2==2.17.0
+packaging==24.2
+pandas==2.0.3
+pandocfilters==1.5.0
+parso==0.8.2
+pexpect==4.8.0
+pickleshare==0.7.5
+pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1719903565503/work
+platformdirs==4.3.6
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1713667077545/work
+portalocker==3.0.0
+prettytable==3.11.0
+prometheus-client==0.12.0
+prompt-toolkit==3.0.22
+protobuf==3.19.1
+psutil==7.0.0
+ptyprocess==0.7.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycocoevalcap==1.2
+pycocotools==2.0.7
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycryptodome==3.22.0
+pydantic==2.10.6
+pydantic-core==2.27.2
+pygments==2.19.1
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing==3.0.6
+pyrsistent==0.18.0
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil==2.8.2
+pytorch3d==0.7.8
+pytz==2023.4
+PyWavelets==1.4.1
+PyYAML @ file:///home/conda/feedstock_root/build_artifacts/pyyaml_1723018227672/work
+pyzmq==22.3.0
+regex==2024.11.6
+requests==2.28.2
+requests-oauthlib==1.3.0
+rich==13.4.2
+rsa==4.8
+ruamel-yaml-conda @ file:///tmp/build/80754af9/ruamel_yaml_1616016699510/work
+ruamel.yaml @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml_1698138639326/work
+ruamel.yaml.clib @ file:///home/conda/feedstock_root/build_artifacts/ruamel.yaml.clib_1707314498139/work
+safetensors==0.5.3
+scikit-image==0.21.0
+scikit-learn==1.3.2
+scipy==1.10.0
+seaborn==0.13.2
+Send2Trash==1.8.0
+sentry-sdk==2.30.0
+setproctitle==1.3.6
+setuptools-scm==6.3.2
+shapely==2.0.7
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+sklearn==0.0
+smart-open==7.1.0
+smmap==5.0.2
+sniffio==1.2.0
+soupsieve==2.6
+supervision==0.25.1
+supervisor==4.2.2
+tabulate @ file:///home/conda/feedstock_root/build_artifacts/tabulate_1665138452165/work
+tensorboard==2.7.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+termcolor==2.4.0
+terminado==0.12.1
+terminaltables==3.1.10
+testpath==0.5.0
+threadpoolctl==3.5.0
+tifffile==2023.7.10
+tokenizers==0.20.3
+tomli==2.2.1
+toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1728059506884/work
+torch @ http://download.pytorch.org/whl/cu113/torch-1.10.0%2Bcu113-cp38-cp38-linux_x86_64.whl
+torchvision @ http://download.pytorch.org/whl/cu113/torchvision-0.11.1%2Bcu113-cp38-cp38-linux_x86_64.whl
+tornado==6.1
+tqdm==4.65.2
+traitlets==5.1.1
+transformers==4.46.3
+typing-extensions==4.13.1
+tzdata==2025.2
+urllib3==1.26.20
+wandb==0.20.1
+wcwidth==0.2.5
+webencodings==0.5.1
+websocket-client==1.2.1
+Werkzeug==2.0.2
+widgetsnbextension==3.5.2
+wrapt==1.17.2
+yacs @ file:///home/conda/feedstock_root/build_artifacts/yacs_1645705974477/work
+yapf==0.43.0
+zipp==3.6.0

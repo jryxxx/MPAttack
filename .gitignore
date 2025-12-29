@@ -1,0 +1,4 @@
+*.pth
+.ipynb_checkpoints
+*.npy
+.DS_Store
