@@ -13,11 +13,11 @@ pip install -r requirements.txt
 cd neural_renderer
 sudo apt install ninja-build
 python setup.py install
-ninja -f build/temp.linux-x86_64-cpython-39/build.ninja
+ninja -f build/temp.linux-x86_64-cpython-38/build.ninja
 python setup.py install
-ninja -f build/temp.linux-x86_64-cpython-39/build.ninja
+ninja -f build/temp.linux-x86_64-cpython-38/build.ninja
 python setup.py install
-ninja -f build/temp.linux-x86_64-cpython-39/build.ninja
+ninja -f build/temp.linux-x86_64-cpython-38/build.ninja
 python setup.py install
 ```
 ## Dataset
@@ -39,8 +39,7 @@ If you would like to export custom vehicle models to CARLA and collect your own 
     ```
 ## Train
 The attacked open-vocabulary object detection models can be found at the following link:
-- Link:
-- Access Code:
+- Link: https://drive.google.com/drive/folders/1dcVzI00OBXQLWjp2TjutRKraIAgk4sC4?usp=sharing
 
 Run the training code to optimize the adversarial camouflage:
 ```bash
